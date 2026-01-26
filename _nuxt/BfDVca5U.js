@@ -1,0 +1,1 @@
+import{_ as s,c as n,e as o,b as _,a as c,S as a,t as r}from"./C3rPSchN.js";const m={},p={class:"empty"},i={class:"mt-5 text-center"};function d(t,l){const e=a;return o(),n("div",p,[_(e),c("h3",i,r(t.$t("empty.text")),1)])}const f=Object.assign(s(m,[["render",d]]),{__name:"Empty"});export{f as _};
