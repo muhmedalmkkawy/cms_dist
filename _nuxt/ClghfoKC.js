@@ -1,0 +1,1 @@
+import t from"./tQst5BWR.js";import"./D3cRKuOr.js";import"./DznqOhcT.js";import"./DWC8408d.js";import"./CTq4cHTB.js";import"./CeJc40pL.js";import"./C9wsFbwe.js";var s={name:"Sidebar",extends:t,mounted:function(){console.warn("Deprecated since v4. Use Drawer component instead.")}};export{s as default};
